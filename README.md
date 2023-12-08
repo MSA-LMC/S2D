@@ -1,2 +1,2 @@
 # S2D
-The offical code of S2D
+The code will be released soon!
