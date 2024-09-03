@@ -32,7 +32,6 @@
 ### Visualization 
 <img width="1024" alt="image" src="https://github.com/user-attachments/assets/aea1385d-0d1b-4f5e-8775-087a30363751">
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/9f93923a-478f-4083-b677-5e17da650d51">
 
 ## Fine-tune with pre-trained weights
 1、 Download the pre-trained weights from [here](https://pan.baidu.com/s/1J5eCnTn_Wpn0raZTIUCfgw?pwd=dji4) and move to ckpts directory.
