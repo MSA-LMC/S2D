@@ -49,11 +49,15 @@ bash run.sh
 
 If you find this work helpful, please consider citing:
 ```bibtex
-@article{chen2023static,
-  title={From static to dynamic: Adapting landmark-aware image models for facial expression recognition in videos},
+@ARTICLE{10663980,
   author={Chen, Yin and Li, Jia and Shan, Shiguang and Wang, Meng and Hong, Richang},
-  journal={arXiv preprint arXiv:2312.05447},
-  year={2023}
-}
+  journal={IEEE Transactions on Affective Computing}, 
+  title={From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Adaptation models;Videos;Computational modeling;Feature extraction;Transformers;Task analysis;Face recognition;Dynamic facial expression recognition;emotion ambiguity;model adaptation;transfer learning},
+  doi={10.1109/TAFFC.2024.3453443}}
 ```
 
