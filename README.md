@@ -10,7 +10,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/facial-expression-recognition-on-affectnet)](https://paperswithcode.com/sota/facial-expression-recognition-on-affectnet?p=from-static-to-dynamic-adapting-landmark-1)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/facial-expression-recognition-on-raf-db)](https://paperswithcode.com/sota/facial-expression-recognition-on-raf-db?p=from-static-to-dynamic-adapting-landmark-1)<br>
 
->[From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/pdf/2312.05447)<br>
+>[From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://ieeexplore.ieee.org/document/10663980)<br>
 >Yin Chen$^{†}$, Jia Li$^{†∗}$, Shiguang Shan, Meng Wang, and Richang Hong 
 
 ## 📰 News
