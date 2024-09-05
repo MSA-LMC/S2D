@@ -5,7 +5,7 @@ finetune_dataset='mafw'
 num_labels=11
 ckpts=(ckpts/Pretrain-AffectNet-7.pth)
 input_size=224
-sr=4
+sr=1
 model="affectnet_pretrain"
 model_dir="${model}_server${pretrain_server}"
 

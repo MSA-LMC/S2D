@@ -44,6 +44,115 @@ pip install -r requirements.txt
 bash run.sh
 ```
 
+## 📋 Reported Results and Fine-tuned Weights
+The fine-tuned checkpoints can be downloaded from [here](https://pan.baidu.com/s/1Xz5j8QW32x7L0bnTEorUbA?pwd=5drk).
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th rowspan="2">Datasets</th>
+        <th colspan="2">w/o oversampling</th>
+        <th colspan="2">w/ oversampling</th>
+    </tr>
+    <tr>
+        <th>UAR</th>
+        <th>WAR</th>
+        <th>UAR</th>
+        <th>WAR</th>
+    </tr>
+    <tr><td colspan="5" style="text-align: center;">FERV39K</td></tr>
+    <tr>
+        <td>FERV39K</td>
+        <td>41.28</td>
+        <td>52.56</td>
+        <td>43.97</td>
+        <td>46.21</td>
+    </tr>
+    <tr><td colspan="5" style="text-align: center;">DFEW</td></tr>
+    <tr>
+        <td>DFEW01</td>
+        <td>61.56</td>
+        <td>76.16</td>
+        <td>64.80</td>
+        <td>75.35</td>
+    </tr>
+    <tr>
+        <td>DFEW02</td>
+        <td>59.93</td>
+        <td>73.99</td>
+        <td>62.54</td>
+        <td>72.53</td>
+    </tr>
+    <tr>
+        <td>DFEW03</td>
+        <td>61.33</td>
+        <td>76.41</td>
+        <td>66.47</td>
+        <td>75.87</td>
+    </tr>
+    <tr>
+        <td>DFEW04</td>
+        <td>62.75</td>
+        <td>76.31</td>
+        <td>66.03</td>
+        <td>74.48</td>
+    </tr>
+    <tr>
+        <td>DFEW05</td>
+        <td>63.51</td>
+        <td>77.27</td>
+        <td>67.43</td>
+        <td>76.80</td>
+    </tr>
+    <tr>
+        <td>DFEW</td>
+        <td>61.82</td>
+        <td>76.03</td>
+        <td>65.45</td>
+        <td>74.81</td>
+    </tr>
+    <tr><td colspan="5" style="text-align: center;">MAFW</td></tr>
+    <tr>
+        <td>MAFW01</td>
+        <td>32.78</td>
+        <td>46.76</td>
+        <td>36.16</td>
+        <td>44.21</td>
+    </tr>
+    <tr>
+        <td>MAFW02</td>
+        <td>40.43</td>
+        <td>55.96</td>
+        <td>41.94</td>
+        <td>51.22</td>
+    </tr>
+    <tr>
+        <td>MAFW03</td>
+        <td>47.01</td>
+        <td>62.08</td>
+        <td>48.08</td>
+        <td>61.48</td>
+    </tr>
+    <tr>
+        <td>MAFW04</td>
+        <td>45.66</td>
+        <td>62.61</td>
+        <td>47.67</td>
+        <td>60.64</td>
+    </tr>
+    <tr>
+        <td>MAFW05</td>
+        <td>43.45</td>
+        <td>59.42</td>
+        <td>43.16</td>
+        <td>58.55</td>
+    </tr>
+    <tr>
+        <td>MAFW</td>
+        <td>41.86</td>
+        <td>57.37</td>
+        <td>43.40</td>
+        <td>55.22</td>
+    </tr>
+</table>
 
 ## ✏️ Citation
 
