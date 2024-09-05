@@ -15,8 +15,11 @@
 
 ## 📰 News
 **[2024.9.5]** The fine-tuned checkpoints are available.
+
 **[2024.9.2]** The code and pre-trained models are aviable.
+
 **[2024.8.28]** The paper is accepted by IEEE Transactions on Affective Computing.
+
 **[2023.12.5]** ~~Code and pre-trained models will be released here~~. 
 
 ## 🚀 Main Results
