@@ -38,7 +38,7 @@
 
 
 ## Fine-tune with pre-trained weights
-1、 Download the pre-trained weights from [here](https://pan.baidu.com/s/1J5eCnTn_Wpn0raZTIUCfgw?pwd=dji4) and move to ckpts directory.
+1、 Download the pre-trained weights from [baidu drive](https://pan.baidu.com/s/1J5eCnTn_Wpn0raZTIUCfgw?pwd=dji4) or [google drive](https://drive.google.com/file/d/1Y9zz8z_LwUi-tSFBAwDPZkVoyY6mhZlu/view?usp=drive_link),   and move to ckpts directory.
 
 2、 Run the following command to fine-tune the model on the target dataset.
 ```bash
