@@ -15,6 +15,7 @@ class SDL(nn.Module):
         # Q: [num_class, size, dim]
         # x: [dim]
         # 对Q和x进行归一化（转换为单位向量）
+        
         x = x.expand(Q.shape[0], Q.shape[1], -1)
         Q_normalized = F.normalize(Q, p=2, dim=2)
         x_normalized = F.normalize(x, p=2, dim=2)
