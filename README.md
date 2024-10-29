@@ -38,7 +38,7 @@
 
 
 ## Fine-tune with pre-trained weights
-1、 Download the pre-trained weights from [baidu drive](https://pan.baidu.com/s/1J5eCnTn_Wpn0raZTIUCfgw?pwd=dji4) or [google drive](https://drive.google.com/file/d/1Y9zz8z_LwUi-tSFBAwDPZkVoyY6mhZlu/view?usp=drive_link) or [ondedrive](https://mailhfuteducn-my.sharepoint.com/personal/2022111029_mail_hfut_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F2022111029%5Fmail%5Fhfut%5Fedu%5Fcn%2FDocuments%2Fresearch%2F论文开源代码%2FS2D%2Dgithub), and move it to the ckpts directory.
+1、 Download the pre-trained weights from [baidu drive](https://pan.baidu.com/s/1J5eCnTn_Wpn0raZTIUCfgw?pwd=dji4) or [google drive](https://drive.google.com/file/d/1Y9zz8z_LwUi-tSFBAwDPZkVoyY6mhZlu/view?usp=drive_link) or [onedrive](https://mailhfuteducn-my.sharepoint.com/personal/2022111029_mail_hfut_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F2022111029%5Fmail%5Fhfut%5Fedu%5Fcn%2FDocuments%2Fresearch%2F论文开源代码%2FS2D%2Dgithub), and move it to the ckpts directory.
 
 2、 Run the following command to fine-tune the model on the target dataset.
 ```bash
