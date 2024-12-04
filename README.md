@@ -174,3 +174,6 @@ If you find this work helpful, please consider citing:
   doi={10.1109/TAFFC.2024.3453443}}
 ```
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MSA-LMC/S2D&type=Date)](https://star-history.com/#MSA-LMC/S2D&Date)
