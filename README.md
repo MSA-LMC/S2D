@@ -49,7 +49,7 @@ bash run.sh
 ```
 
 ## 📋 Reported Results and Fine-tuned Weights
-The fine-tuned checkpoints can be downloaded from [here](https://pan.baidu.com/s/1Xz5j8QW32x7L0bnTEorUbA?pwd=5drk).
+The fine-tuned checkpoints can be downloaded from [baidu driver](https://pan.baidu.com/s/1Xz5j8QW32x7L0bnTEorUbA?pwd=5drk) or [huggingface](https://huggingface.co/cyinen/S2D).
 <table border="1" cellspacing="0" cellpadding="5">
     <tr>
         <th rowspan="2">Datasets</th>
