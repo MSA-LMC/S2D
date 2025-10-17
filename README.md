@@ -1,5 +1,5 @@
 # From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos
-🔥 **[Highly Cited Paper]**
+🔥 **[Recognized as a Highly Cited Paper by Web of Science (Top 1%)]**
 >[From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://ieeexplore.ieee.org/document/10663980)<br>
 >Yin Chen$^{†}$, Jia Li$^{†∗}$, Shiguang Shan, Meng Wang, and Richang Hong 
 
