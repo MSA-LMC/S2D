@@ -9,6 +9,8 @@
 
 
 ## 📰 News
+**[2025.9.15]** Our new paper [S4D](https://github.com/MSA-LMC/S4D/tree/main) has been accepted by IEEE Transactions on Affective Computing.
+
 **[2024.9.5]** The fine-tuned checkpoints are available.
 
 **[2024.9.2]** The code and pre-trained models are available.
