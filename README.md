@@ -16,7 +16,7 @@
 <img width="598" height="222" alt="image" src="https://github.com/user-attachments/assets/35775926-b750-428d-a9bf-893e64779941" />
 
 
-**[2025.9.15]** Our new paper [S4D](https://github.com/MSA-LMC/S4D/tree/main) has been accepted by IEEE Transactions on Affective Computing.
+**[2025.9.15]** Our new paper **(the next version of S2D) [S4D](https://github.com/MSA-LMC/S4D/tree/main) has been accepted by IEEE Transactions on Affective Computing**.
 
 **[2025.9.15]** S2D has been recognized as a **Highly Cited Paper** by Clarivate.
 
