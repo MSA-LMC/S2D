@@ -190,6 +190,14 @@ If you find this work helpful, please consider citing:
   keywords={Videos;Adaptation models;Face recognition;Transformers;Semantics;Multitasking;Computer vision;Spatiotemporal phenomena;Correlation;Emotion recognition;Dynamic facial expression recognition;mixture of experts;self-supervised learning;vision transformer},
   doi={10.1109/TAFFC.2025.3623135}}
 
+@article{chen2026claip,
+  title={CLAIP-Emo: Parameter-Efficient Adaptation of Language-Supervised Models for In-the-Wild Audiovisual Emotion Recognition},
+  author={Chen, Yin and Li, Jia and Hu, Jinpeng and Hu, Zhenzhen and Hong, Richang},
+  journal={IEEE Signal Processing Letters},
+  year={2026},
+  publisher={IEEE}
+}
+
 
 ```
 
