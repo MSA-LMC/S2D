@@ -12,7 +12,7 @@
 
 ## 📰 News
 
-**[2026.08.09]** 🎉🎉🚀🚀 Our new paper [CLAIP-Emo](https://github.com/MSA-LMC/CLAIP-Emo) has been accepted by **IEEE Signal Processing Letters6**! A simple yet very powerful audiovisual emotion recognition framework utilizing CLIP and CLAP with lightweight fine-tuning.
+**[2026.08.09]** Our new paper [CLAIP-Emo](https://github.com/MSA-LMC/CLAIP-Emo) has been accepted by **IEEE Signal Processing Letters6**! A simple yet very powerful audiovisual emotion recognition framework utilizing CLIP and CLAP with lightweight fine-tuning.
 
 **[2026.7.18]** 🎉🎉🚀🚀Our work [S2D](https://github.com/MSA-LMC/S2D/tree/main) was selected as the **2025 Best Paper Award** (the only one!), for **IEEE Transactions on Affective Computing**  by the IEEE Computer Society Publications Board.
 
