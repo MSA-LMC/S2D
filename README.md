@@ -11,6 +11,7 @@
 
 
 ## 📰 News
+**[2026.08.12]** 🎉🎉Our new paper [SSM](https://github.com/MSA-LMC/SSM) has been accepted by **IEEE Transactions on Affective Computing**! A novel Structured Semantic Mapping (SSM) framework for bidirectional learning between Facial Action Units (AUs) and Facial Expressions (FEs) under heterogeneous datasets.
 
 **[2026.08.09]** 🎉🎉Our new paper [CLAIP-Emo](https://github.com/MSA-LMC/CLAIP-Emo) has been accepted by **IEEE Signal Processing Letters**! A simple yet very powerful audiovisual emotion recognition framework utilizing CLIP and CLAP with lightweight fine-tuning.
 
